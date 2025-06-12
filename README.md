@@ -1,6 +1,5 @@
 # SolarPanel_Defect_Detection
 DS_SolarPanel_Defect_Detection_using_DeepLearning
-DS_SolarPanel_Defect_Detection_using_DeepLearning
 
 Project Description: This project focuses on building an intelligent defect detection system for solar panels using deep learning techniques. The primary objective is to automatically identify and classify various types of surface anomalies in solar panels to enhance maintenance efficiency and reduce energy loss. The system leverages convolutional neural networks (CNNs) to classify solar panel images into multiple categories such as Clean, Dusty, Bird-Drop, Electrical-Damage, Physical-Damage, and Snow-Covered.
 
